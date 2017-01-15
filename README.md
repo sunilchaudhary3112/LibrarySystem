@@ -6,7 +6,7 @@
 To set up the project 
 
 1. Download or clone the project                                                                                                                                         
-2. Go the directory where the project is dowmloaded 
+2. Go the directory where the project is downloaded 
 
 3. Run npm install --save
 
