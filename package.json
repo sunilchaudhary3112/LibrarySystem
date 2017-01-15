@@ -1,0 +1,40 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "angular-ui-router": "^0.2.15",
+    "async": "^2.1.4",
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.3.3",
+    "email-existence": "^0.1.5",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "express-validator": "^2.18.0",
+    "hooks-fixed": "^1.1.0",
+    "jsonparse": "^1.2.0",
+    "kareem": "^1.0.1",
+    "mongodb": "^2.0.48",
+    "mongoose": "^4.2.6",
+    "mpath": "^0.2.1",
+    "mpromise": "^0.5.5",
+    "mquery": "^1.6.3",
+    "ms": "^0.7.1",
+    "muri": "^1.1.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "regexp-clone": "^0.0.1",
+    "request": "^2.67.0",
+    "session": "^0.1.0",
+    "sliced": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
